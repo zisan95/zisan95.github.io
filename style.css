@@ -1,33 +1,19 @@
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-    color: #333;
+.contact {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px 0;
 }
-header {
-    background: #007BFF;
-    color: white;
-    padding: 1rem 0;
-    text-align: center;
+
+.contact h2 {
+  color: #333;
 }
-section {
-    padding: 20px;
-    margin: 20px;
-    background: white;
-    border-radius: 5px;
+
+.contact ul {
+  list-style: none;
+  padding: 0;
 }
-footer {
-    text-align: center;
-    padding: 1rem;
-    background: #333;
-    color: white;
-}
-a {
-    color: #007BFF;
-    text-decoration: none;
-}
-a:hover {
-    text-decoration: underline;
+
+.contact li {
+  margin: 10px 0;
 }
